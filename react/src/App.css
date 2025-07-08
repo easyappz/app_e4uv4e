@@ -49,12 +49,12 @@
 }
 
 .operation-button {
-  background-color: #ff9500;
-  color: black;
+  background-color: #34C759;
+  color: white;
 }
 
 .operation-button:hover {
-  background-color: #ffaa33;
+  background-color: #40D66A;
 }
 
 .clear-button {
@@ -67,15 +67,15 @@
 }
 
 .equals-button {
-  background-color: #ff9500;
-  color: black;
+  background-color: #34C759;
+  color: white;
   border-radius: 50%;
   height: 80px;
   width: 80px;
 }
 
 .equals-button:hover {
-  background-color: #ffaa33;
+  background-color: #40D66A;
 }
 
 @media (max-width: 600px) {
