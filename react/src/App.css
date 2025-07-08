@@ -1,5 +1,5 @@
 .calculator-container {
-  background-color: black;
+  background-color: #FF0000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
